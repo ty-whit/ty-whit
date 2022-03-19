@@ -9,7 +9,8 @@ I'm intersted in working on tools that clean and transform data to be more consu
 
 ## Things I'm learning 
 - Data Science/Machine Learning
-- Better Software Development
+- Mathematics/Statistics
+- Web Development
 
 
 <!---
