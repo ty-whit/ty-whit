@@ -8,6 +8,7 @@ I'm intersted in working on tools that clean and transform data to be more consu
 - Untitled Space Shooter Game
 
 ## Things I'm learning 
+- Cloud infrastructure
 - Data Science/Machine Learning
 - Mathematics/Statistics
 - Web Development
