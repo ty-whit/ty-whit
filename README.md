@@ -4,6 +4,8 @@ I am a Data Engineer at Summit. I build data pipeline. I like making sure that p
 I'm intersted in working on tools that clean and transform data to be more consumable, that check data quality, or facilitate moving it from point A to point B. 
 
 ## Personal Projets in progress (A.K.A development hell)
+- Quartz Blog
+- HTML Website for wife
 - Grocery Inventory
 - Untitled Space Shooter Game
 
