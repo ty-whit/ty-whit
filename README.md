@@ -1,7 +1,7 @@
 Hi, I’m Tyler. 👋
 I am a Data Engineer. I build data pipeline. I like making sure that people have the data and knowledge to answer their questions.
 
-I'm intersted in working on tools that clean and transform data to be more consumable, that check data quality, or facilitate moving it from point A to point B. 
+I'm intersted in working with and learning about tools that clean and transform data to be more consumable, that check data quality, or facilitate moving it from point A to point B. Right now, that's mostly Databricks and Pyspark. 
 
 ## Personal Projets in progress (A.K.A development hell)
 - Quartz Blog
